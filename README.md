@@ -11,10 +11,11 @@ pkg update -y
 pkg upgrade -y
 ```
 ---
-***Install Node.js LTS dan Clone Repo***
+***Install Node.js LTS, Ruby, dan Clone Repo***
 ```bash
 pkg install git -y
 pkg install nodejs-lts -y
+pkg install ruby -y 
 git clone https://github.com/NekomonHub/stealstatus
 ```
 ---
