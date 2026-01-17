@@ -1,5 +1,5 @@
 # StealStatus 
-adalah alat yang digunakan untuk mengambil video/gambar pada status *WhatsApp* secara mudah tanpa bantuan banyak alat
+*adalah alat yang digunakan untuk mengambil video/gambar pada status *WhatsApp* secara mudah tanpa bantuan banyak alat*
 ---
 # Cara penggunaan di termux (Khusus Android)
 ***Update pkg dan Upgrade pkg***
@@ -42,5 +42,6 @@ node engine.js
   <img src="https://img.shields.io/badge/Debian-12-A81D33?logo=debian&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
 </p>
+
 ---
-© NekomonHub ²⁰²⁶
+© NekomonHub 2026
