@@ -1,5 +1,7 @@
 # StealStatus 
+
 ***adalah alat yang digunakan untuk mengambil video/gambar pada status *WhatsApp* secara mudah tanpa bantuan banyak alat***
+
 ---
 # Cara penggunaan di termux (Khusus Android)
 ***Update pkg dan Upgrade pkg***
