@@ -15,7 +15,8 @@ pkg upgrade -y
 ```bash
 pkg install git -y
 pkg install nodejs-lts -y
-pkg install ruby -y 
+pkg install ruby -y
+gem install colorize 
 git clone https://github.com/NekomonHub/stealstatus
 ```
 ---
