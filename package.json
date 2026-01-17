@@ -1,0 +1,29 @@
+{
+  "name": "stealstatus",
+  "version": "1.0.0",
+  "description": "This is a tool that can be used to download WhatsApp video and image status on WhatsApp without the help of many tools.",
+  "keywords": [
+    "StealStatus",
+    "WhatsApp",
+    "Hack",
+    "StealVideo"
+  ],
+  "homepage": "https://github.com/NekomonHub/stealstatus#readme",
+  "bugs": {
+    "url": "https://github.com/NekomonHub/stealstatus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekomonHub/stealstatus.git"
+  },
+  "license": "MIT",
+  "author": "NekomonHub, Xyzen.js",
+  "type": "module",
+  "main": "engine.js",
+  "scripts": {
+    "test": "node engine.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
